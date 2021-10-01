@@ -3,7 +3,10 @@
     padding: 0;
     
 }
-
+#rarity{
+    max-width: 100%;
+    max-height: 100%;
+}
 @media only screen and (max-width: 479px){
     .nav2{
         position: inherit;
